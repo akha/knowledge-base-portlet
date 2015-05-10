@@ -1,0 +1,19 @@
+/* ---------- Configuration ---------- */
+.portlet-configuration .kb-edit-link {
+  margin: 5px 0 0; }
+
+/* ---------- Portlet ---------- */
+.knowledge-base-portlet-display .kbarticle-navigation li {
+  line-height: inherit;
+  margin: 15px 0; }
+.knowledge-base-portlet-display .kbarticle-navigation li, .knowledge-base-portlet-display .kbarticle-navigation ul {
+  list-style: none; }
+.knowledge-base-portlet-display .kbarticle-navigation .kbarticle-expanded {
+  font-weight: bold; }
+.knowledge-base-portlet-display .kbarticle-navigation .kbarticle-root-selector select {
+  display: inline;
+  width: inherit; }
+.knowledge-base-portlet-display .kbarticle-navigation .kbarticle-selected {
+  color: #555;
+  font-weight: bold; }
+
