@@ -6,7 +6,7 @@ bundle liferay 6.2 GA4
 
 sdk liferay 6.2 GA
 
-Copiler le knowledge-base-portlet
+Compiler le knowledge-base-portlet
 
 ant clean
 
